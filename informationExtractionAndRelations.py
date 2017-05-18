@@ -82,4 +82,4 @@ def main():
 	
 main()
 
-## thomyfarhan
+## https://github.com/thomyfarhan/information-extraction-and-relations
